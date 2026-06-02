@@ -1,0 +1,19 @@
+#titulo-principal {
+    color:moccasin;
+    background-color:lemonchiffon;
+}
+
+#paragraf1{
+    color:bisque;
+}
+#paragraf2{
+    color:lightcoral;
+}
+#paragraf{
+    color:honeydew;
+}
+
+.paragrafo {
+    text-align: justify;
+    background-color:aliceblue;
+}
