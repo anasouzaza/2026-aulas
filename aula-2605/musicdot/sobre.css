@@ -1,0 +1,21 @@
+body	{
+    font-family:	"Times New Roman",	"Arial",	sans-serif;
+color:	#3c3c3d;
+text-align: center;
+border-bottom:	5px	solid	#444345;
+}
+
+h1	{		background-color:	#8995b0;
+
+}
+
+h2	{
+        border-bottom:	5px	solid	#444345;
+}
+
+figure	{
+        text-align:	center;
+        color: #1f2020;
+        background-color:	#76767c;
+        border:	1px	solid	#8a8791;
+}
